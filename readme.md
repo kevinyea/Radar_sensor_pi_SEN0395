@@ -95,7 +95,7 @@ Check the `vital_monitoring.log` file for detailed information about the system'
 
 ## License
 
-[Add your chosen license here]
+None
 
 ## Contributing
 
